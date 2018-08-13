@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlockingTCP_Server-Client", "BlockingTCP_Server-Client\BlockingTCP_Server-Client.vcxproj", "{D7C208F2-CCFC-4F5C-9D4A-80DF58C78E1B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlockingTCP_Client-Server", "BlockingTCP_Client-Server\BlockingTCP_Client-Server.vcxproj", "{085ECAAB-FE68-40FA-BFE5-D463E014F37F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C208F2-CCFC-4F5C-9D4A-80DF58C78E1B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7C208F2-CCFC-4F5C-9D4A-80DF58C78E1B}.Debug|Win32.Build.0 = Debug|Win32
+		{D7C208F2-CCFC-4F5C-9D4A-80DF58C78E1B}.Release|Win32.ActiveCfg = Release|Win32
+		{D7C208F2-CCFC-4F5C-9D4A-80DF58C78E1B}.Release|Win32.Build.0 = Release|Win32
+		{085ECAAB-FE68-40FA-BFE5-D463E014F37F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{085ECAAB-FE68-40FA-BFE5-D463E014F37F}.Debug|Win32.Build.0 = Debug|Win32
+		{085ECAAB-FE68-40FA-BFE5-D463E014F37F}.Release|Win32.ActiveCfg = Release|Win32
+		{085ECAAB-FE68-40FA-BFE5-D463E014F37F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
